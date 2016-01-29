@@ -1,2 +1,2 @@
 # About
-* JavaScript practicing set
+* JavaScript practicing folder
