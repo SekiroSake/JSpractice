@@ -1,2 +1,2 @@
 # About
-* JavaScript practicing ground
+* JavaScript practicing set
